@@ -1,0 +1,6 @@
+C:\Users\Usuario\OneDrive\Desktop\inventoryfinal\src\app\Main.java
+C:\Users\Usuario\OneDrive\Desktop\inventoryfinal\src\app\dao\MySQLProductDao.java
+C:\Users\Usuario\OneDrive\Desktop\inventoryfinal\src\app\dao\ProductDao.java
+C:\Users\Usuario\OneDrive\Desktop\inventoryfinal\src\app\db\ConnectionDB.java
+C:\Users\Usuario\OneDrive\Desktop\inventoryfinal\src\app\model\Product.java
+C:\Users\Usuario\OneDrive\Desktop\inventoryfinal\src\app\service\ProductService.java
